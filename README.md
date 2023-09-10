@@ -1,8 +1,7 @@
 # Open Source Experiment Tracking with MLflow
 
 **Welcome to DagsHub’s Experiment Tracking contribution project for Hacktoberfest 2023!**
-
-![banner](https://user-images.githubusercontent.com/66431403/193427111-af11f270-bce0-4ad8-b0f9-02526312a9c2.png)
+![Hacktoberfest ML project - DagsHub](https://github.com/DagsHub/open-source-experiment-tracking/assets/66431403/dce6a0af-b6a7-4078-a77c-852dc5ae4bec)
 
 In this exciting Hacktoberfest challenge, DagsHub invites you to build data pipelines using DVC for automation and versioning of Open Source Machine Learning projects.
 
