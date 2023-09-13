@@ -1,8 +1,8 @@
-            # Open Source Experiment Tracking with MLflow 🐶
+# Open Source Experiment Tracking with MLflow 🐶
 
 **Welcome to DagsHub’s Experiment Tracking contribution project for Hacktoberfest 2023!**
 
-![Hacktoberfest ML project - DagsHub](https://github.com/DagsHub/open-source-experiment-tracking/assets/66431403/dce6a0af-b6a7-4078-a77c-852dc5ae4bec)
+![hero-narrow](https://github.com/DagsHub/open-source-experiment-tracking/assets/66431403/c091f06b-3b6d-4333-8b2c-f913f9ba13f4)
 
 In this exciting Hacktoberfest challenge, DagsHub invites you to contribute MLflow experiment tracking capabilities to Open Source Machine Learning projects.
 
@@ -19,9 +19,9 @@ DagsHub is excited to introduce the MLflow Experiment Tracking Contribution Chal
 Here's a step-by-step guide to get involved in this challenge:
 
 1. **Choose a Project**: Explore [open-source projects on DagsHub](https://dagshub.com/explore/repos) and select one that interests you. It can be any project that utilizes MLflow or would benefit from one.
-2. **Track Experiments with MLflow**: Fork the project under your name and using MLflow, log parameters, metrics, and the trained model, as appropriate for the project's objectives.
+2. **Track Experiments with MLflow**: Fork the project under your name and use MLflow to log parameters, metrics, and the trained model, as appropriate for the project's objectives.
 3. **Document Your Pipeline**: Maintain clear and concise documentation describing your work, processing steps, and any dependencies. This documentation is crucial for future users and contributors and should be added to the project’s README file.
-4. **Tag your project:** Add relevant tags to the repository and files including `MLflow` , `experiment-tracking` , and `hacktoberfest` labels to the DagsHub repository.
+4. **Tag your project:** Add relevant tags to the repository and files including `MLflow`, `experiment-tracking`, `hacktoberfest`, and `hacktoberfest-2023` labels to the DagsHub repository.
 5. **Submit Your Contribution**: Open a Pull Request to the project on DagsHub.
 6. **Proof of Contribution**: Open a Pull Request [here](https://github.com/DagsHub/open-source-experiment-tracking) with README file and a link to the project
 
